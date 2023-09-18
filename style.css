@@ -6,6 +6,11 @@
     outline: none;
 }
 body {
+    min-height: 400px;
+    max-height: 570px;
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
     background-image: url(./imgs/pexels-michael-burrows-7125663.jpg);
     background-repeat: no-repeat;
     background-size: cover;
